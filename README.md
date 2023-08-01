@@ -325,6 +325,7 @@ Once you have opened a directory using `opendir()`, you can use other functions 
 
 **--------isatty-------------**
 
+
 ### Minishell Operations
 
 	* Reads input from user's terminal
@@ -345,7 +346,6 @@ Once you have opened a directory using `opendir()`, you can use other functions 
 #### Control Operators
 Includes the following symbols:
 `&   &&   (   )   ;   ;;   <newline>   |   ||`
-
 #### Redirection Operators
 `<     >     >|     <<     >>     <&     >&     <<-     <>`
 
